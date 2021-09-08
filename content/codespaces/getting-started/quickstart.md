@@ -9,7 +9,7 @@ type: quick_start
 topics:
   - Codespaces
 redirect_from:
-  - /codespaces/codespaces-quickstart
+  - /codespaces/codespaces-quitrt
 ---
 
 ## Introduction
